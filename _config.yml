@@ -50,12 +50,10 @@ social:
   # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/DunkleAura/      # change to your twitter homepage
-    - https://github.com/DunkleAura       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-
+    - https://dunkleaura.ch/
+    - https://twitter.com/DunkleAura/
+    - https://github.com/DunkleAura
+    
 google_site_verification:               # fill in to your verification string
 
 # ↑ --------------------------
@@ -89,7 +87,8 @@ theme_mode:   dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/156216?v=4
+# avatar: https://avatars.githubusercontent.com/u/156216?v=4
+avatar: https://yt3.ggpht.com/sWdEUOSWKjnm30x5Ok20ilJr6-ar_DzwTwhACulxqfSg96fUt-ukOifzt2cLToq-Zj3Uh_1qRXk=s600-c-k-c0x00ffffff-no-rj-rp-mo
 
 # boolean type, the global switch for ToC in posts.
 toc: true

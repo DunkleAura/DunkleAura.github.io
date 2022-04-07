@@ -1,15 +1,27 @@
 #  The contact options.
 
 -
-  type: github
-  icon: 'fab fa-github'
--
   type: twitter
   icon: 'fab fa-twitter'
 -
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/channel/UC-JiSPwt2dwY_iM5K-LdJ1A'
+-
+  type: twitch
+  icon: 'fab fa-twitch'
+  url: 'https://www.twitch.tv/dunkleaura/'
+# -
+#   type: patreon
+#   icon: 'fab fa-patreon'
+#   url:  'https://www.patreon.com/dunkleaura'
+# -
+#   type: discord
+#   icon: 'fab fa-discord'
+#   url: 'https://discord.gg/d2ea'
+-
+  type: github
+  icon: 'fab fa-github'
 -
   type: rss
   icon: 'fas fa-rss'
